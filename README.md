@@ -1,0 +1,1 @@
+# coookie-storage-for-xss

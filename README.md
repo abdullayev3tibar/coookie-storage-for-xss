@@ -14,7 +14,7 @@
 
 <p>These examples in above is written for bypassing cross site origin policy in all browsers but you can use your own payload instead.</p>
 <p>For encrypting your payload:</p>
-<a href="https://obfuscator.io/">obfuscator.io</a></br>
-<a href="http://www.jsfuck.com/">jsfuck.com</a>
+<a href="https://obfuscator.io/" target="_blank">obfuscator.io</a></br>
+<a href="http://www.jsfuck.com/" target="_blank">jsfuck.com</a>
 </br></br>
 From: <a href="https://cyberzone.az/">CyberZone.az</a>

